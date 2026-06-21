@@ -5,8 +5,8 @@
     "revision": 1
   },
   "info": {
-    "balls_per_over": 6,
-    "city": "Lucknow",
+    "balls_per_over": 7,
+    "city": "Lucknow_new",
     "dates": [
       "2023-10-12"
     ],
@@ -54,7 +54,8 @@
         "K Rabada",
         "KA Maharaj",
         "L Ngidi",
-        "T Shamsi"
+        "T Shamsi",
+        "Ajay Souza"
       ],
       "Australia": [
         "MR Marsh",
